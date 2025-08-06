@@ -8,14 +8,16 @@ The **Kirana Inventory System** is a simple, beginner-friendly web application t
 
 kirana-inventory-local/
 ├── app/
-│ ├── app.py # Main Flask application
-│ ├── requirements.txt # Python dependencies
-│ └── templates/
-│ └── index.html # HTML template with Tailwind CSS
-├── Dockerfile # Docker image definition
+│   ├── app.py                  # Main Flask application
+│   ├── requirements.txt        # Python dependencies
+│   └── templates/
+│       └── index.html          # HTML template with Tailwind CSS
+├── Dockerfile                  # Docker image definition
 ├── .github/
-  └── workflows/
-  └── build.yml # GitHub Actions for CI (optional)
+│   └── workflows/
+│       └── build.yml           # GitHub Actions for CI (optional)
+├── README.md                   # Project documentation
+
 
 
 ---
