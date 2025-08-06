@@ -6,7 +6,7 @@ The **Kirana Inventory System** is a simple, beginner-friendly web application t
 
 ## 📁 Project Structure
 
-### kirana-inventory-local/
+kirana-inventory-local/
 ├── app/
 │ ├── app.py # Main Flask application
 │ ├── requirements.txt # Python dependencies
