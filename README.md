@@ -2,23 +2,6 @@
 
 The **Kirana Inventory System** is a simple, beginner-friendly web application to manage inventory for a small grocery store (kirana store). This project is built using **Flask**, **HTML (Jinja2 templating)**, **Tailwind CSS**, and **Docker**.
 
----
-
-## 📁 Project Structure
-
-kirana-inventory-local/
-├── app/
-│   ├── app.py                  # Main Flask application
-│   ├── requirements.txt        # Python dependencies
-│   └── templates/
-│       └── index.html          # HTML template with Tailwind CSS
-├── Dockerfile                  # Docker image definition
-├── .github/
-│   └── workflows/
-│       └── build.yml           # GitHub Actions for CI (optional)
-├── README.md                   # Project documentation
-
-
 
 ---
 
