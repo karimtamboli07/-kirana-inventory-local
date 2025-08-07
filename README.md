@@ -35,4 +35,4 @@ cd app
 pip install -r requirements.txt
 python app.py
 
-![alt text](Screenshot_7-8-2025_11223_localhost.jpeg)
+![alt text](Screenshot_7-8-2025_11223_localhost.jpeg).
